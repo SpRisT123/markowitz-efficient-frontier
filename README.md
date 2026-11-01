@@ -12,4 +12,4 @@ Monte Carlo simulation of 10,000 random portfolio allocations in Python based on
 - `main.py` – data fetching, Monte Carlo simulation, and optimal portfolio weights
 - `plots.py` – scatter plot of the Efficient Frontier
 
-![Efficient Frontier](efficient_frontier.png)
+![Efficient Frontier](charts/efficient_frontier.png)

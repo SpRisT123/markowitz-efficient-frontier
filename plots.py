@@ -18,5 +18,5 @@ def plot_frontier(pvol_list, pr_list, sharpe_list, max_sharpe_vol, max_sharpe_re
     plot.xlabel('Annual Volatility', fontsize=14)
     plot.ylabel('Expected Annual Return', fontsize=14)
     plot.legend(frameon=False, loc='upper left', fontsize=10)
-    plot.savefig('efficient_frontier.png', dpi=150)
+    plot.savefig('charts/efficient_frontier.png', dpi=150)
     plot.show()
